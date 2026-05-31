@@ -116,19 +116,19 @@ df.describe()
 
 ## Pair Plot
 
-![Pair Plot]pairplot.png
+![Pair Plot](screenshots/pairplot.png)
 
 ---
 
 ## Confusion Matrix
 
-![Confusion Matrix]!(confusion_matrix.png)
+![Confusion Matrix](screenshots/confusion_matrix.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance]feature_importance.png
+![Feature Importance](screenshots/feature_importance.png)
 
 ---
 
